@@ -4,10 +4,10 @@ self.addEventListener('install', function(e) {
   e.waitUntil(
     caches.open('pwa-cache-v1').then(function(cache) {
       return cache.addAll([
-  '/belajar_pwa/manifest.json',
-  '/belajar_pwa/HD.png'
-]);
-
+        '/belajar_pwa/manifest.json',
+        '/belajar_pwa/icon-192.png',
+        '/belajar_pwa/icon-512.png'
+      ]);
     })
   );
 });
