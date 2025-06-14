@@ -7,12 +7,12 @@
   "theme_color": "#1976d2",
   "icons": [
     {
-      "src": "https://github.com/undercover17/belajar_pwa/blob/main/HD.png",
+      "src": "https://raw.githubusercontent.com/undercover17/belajar_pwa/main/HD.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "https://github.com/undercover17/belajar_pwa/blob/main/HD.png",
+      "src": "https://raw.githubusercontent.com/undercover17/belajar_pwa/main/HD.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any"
