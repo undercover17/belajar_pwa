@@ -1,9 +1,12 @@
 self.addEventListener('install', function(e) {
+  console.log('[ServiceWorker] Installing service worker...');
+
   e.waitUntil(
-    caches.open('pwa-cache').then(function(cache) {
+    caches.open('pwa-cache-v1').then(function(cache) {
       return cache.addAll([
-        '/',
-        '/index.html'
+        '/belajar_pwa/manifest.json',
+        '/belajar_pwa/icon-192.png',
+        '/belajar_pwa/icon-512.png'
       ]);
     })
   );
