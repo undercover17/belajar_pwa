@@ -1,20 +1,20 @@
 {
   "name": "Sekretariat AGPAII",
   "short_name": "AGPAII",
-  "start_url": "https://www.sekretariatagpaii.or.id/"
+  "start_url": "https://www.sekretariatagpaii.or.id/",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1976d2",
   "icons": [
-  {
-    "src": "https://undercover17.github.io/belajar_pwa/icon-192.png",
-    "sizes": "192x192",
-    "type": "image/png"
-  },
-  {
-    "src": "https://undercover17.github.io/belajar_pwa/icon-512.png",
-    "sizes": "512x512",
-    "type": "image/png"
-  }
-]
+    {
+      "src": "https://undercover17.github.io/belajar_pwa/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://undercover17.github.io/belajar_pwa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
 }
