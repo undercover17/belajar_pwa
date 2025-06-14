@@ -1,7 +1,7 @@
 {
   "name": "Sekretariat AGPAII",
   "short_name": "AGPAII",
-  "start_url": "/",
+  "start_url": "https://www.sekretariatagpaii.or.id/"
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#1976d2",
