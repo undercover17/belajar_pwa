@@ -7,9 +7,15 @@
   "theme_color": "#1976d2",
   "icons": [
     {
-      "src": "https://cdn.files-text.com/api/ow/img/b9c3b2e3-c30b-4ffd-9456-2ef926ae2abd/chatbot_avatar/b4cfiz4j7z30iot9fnll2qk5.png",
-      "sizes": "48x48",
-      "type": "image/x-icon"
+      "src": "https://undercover17.github.io/belajar_pwa/icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://undercover17.github.io/belajar_pwa/icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any"
     }
   ]
 }
